@@ -33,3 +33,9 @@ Este es un proyecto en Flutter que inicia mostrando personajes de la serie Rick 
 - Incorporar carruseles y elementos interactivos para mejorar la experiencia de usuario.
 - Ampliar la app con personajes y contenido de otras series animadas.
 - Mejorar la navegación, la búsqueda y la personalización visual.
+
+  ---
+
+# Autor
+
+Andrés Martínez — iOS/Flutter Developer
