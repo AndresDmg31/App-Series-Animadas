@@ -1,4 +1,4 @@
-# app-series-animadas
+# App-series-animadas
 
 Este es un proyecto en Flutter que inicia mostrando personajes de la serie Rick and Morty. La aplicación está pensada como una base para expandirse en el futuro hacia otras series animadas, manteniendo una estructura limpia y escalable.
 
